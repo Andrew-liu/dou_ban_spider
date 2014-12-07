@@ -42,3 +42,6 @@ Top99 致命ID
 Top100 超脱
 豆瓣爬虫爬取结束...
 ```
+
+
+更多详细内容请查看[Python-豆瓣电影抓站小结](https://github.com/Andrew-liu/Dou_Ban_Spider)
