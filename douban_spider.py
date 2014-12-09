@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/env python
 # -*- coding:utf-8 -*-
 """
 一个简单的Python爬虫, 用于抓取豆瓣电影Top前100的电影的名称
