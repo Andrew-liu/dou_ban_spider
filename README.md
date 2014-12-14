@@ -12,6 +12,7 @@
 
 
     $ douban_spider.py
+    $ threading_douban.py  #多线程爬取豆瓣Top250
 
 
 ##3. Example Output
@@ -43,5 +44,17 @@ Top100 超脱
 豆瓣爬虫爬取结束...
 ```
 
+
+##4. Something
+
+To Do List :
+
+- [ ]添加Master/Slave模式, 使爬取数据有序
+- [ ]学习Scapy
+
+Done :
+
+- [x]实现了简单的多线程爬虫
+- [x]学习了Python中的编码问题
 
 更多详细内容请查看[Python-豆瓣电影抓站小结](https://github.com/Andrew-liu/Dou_Ban_Spider)
