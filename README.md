@@ -1,21 +1,21 @@
-#Dou Ban Top 100 Spider
+# Dou Ban Top 100 Spider
 
 >  - douban_spider.py you can use it to get top 100 movie name which is listed by douban website
 
 
-##1. Install
+## 1. Install
 
 > `git clone git@github.com:Andrew-liu/Dou_Ban_Spider.git`
 
 
-##2. Use It simply
+## 2. Use It simply
 
 
     $ douban_spider.py
     $ threading_douban.py  #多线程爬取豆瓣Top250
 
 
-##3. Example Output
+## 3. Example Output
 
 
 ```python
@@ -45,7 +45,7 @@ Top100 超脱
 ```
 
 
-##4. Something
+## 4. Something
 
 To Do List :
 
